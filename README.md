@@ -1,2 +1,2 @@
 # Vision-por-computadora
-Algoritmos de implementación
+Algoritmos para aplicar filtros sobre video 
